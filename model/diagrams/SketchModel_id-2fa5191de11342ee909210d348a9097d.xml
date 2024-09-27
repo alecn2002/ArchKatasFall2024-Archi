@@ -1,0 +1,32 @@
+<archimate:SketchModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="New Sketch"
+    id="id-2fa5191de11342ee909210d348a9097d">
+  <children
+      xsi:type="archimate:SketchModelActor"
+      id="id-812a02106de24eecbb22e801147053c5"
+      name="Actor">
+    <sourceConnections
+        id="id-ed4d0ec2f61d4774988da98475b88801"
+        source="id-812a02106de24eecbb22e801147053c5"
+        target="id-952a93fdad7c41e880a3fb43208287e8"
+        type="1"/>
+    <bounds
+        x="565"
+        y="153"
+        width="75"
+        height="100"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelActor"
+      id="id-952a93fdad7c41e880a3fb43208287e8"
+      name="Actor"
+      targetConnections="id-ed4d0ec2f61d4774988da98475b88801">
+    <bounds
+        x="766"
+        y="149"
+        width="75"
+        height="100"/>
+  </children>
+</archimate:SketchModel>

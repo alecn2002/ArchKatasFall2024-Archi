@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Business] Main flow"
+    name="[Business] Main flow - process driven"
     id="id-f203af2e9f4048f8bdf528a0f2a853cc"
     documentation="Business view: actors, processes, objects&#xD;&#xA;&#xD;&#xA;Does not include:&#xD;&#xA;- System management/Reporting (DCC Admin roles)&#xD;&#xA;- Securety aspect">
   <children

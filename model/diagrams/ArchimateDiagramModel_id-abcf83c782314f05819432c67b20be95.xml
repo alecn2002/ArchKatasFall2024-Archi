@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Business] Main flow - split to subsystems"
+    name="[Business] Main flow - split to subsystems - updated"
     id="id-abcf83c782314f05819432c67b20be95"
     documentation="Business view: actors, processes, objects&#xD;&#xA;&#xD;&#xA;Does not include:&#xD;&#xA;- System management/Reporting (DCC Admin roles)&#xD;&#xA;- Securety aspect">
   <children

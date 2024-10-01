@@ -208,6 +208,9 @@
         id="id-44bab2fb36fe40ea976ebd156b75ddd5"
         source="id-dd4c01d4fd92440b8296bce040d1c61c"
         target="id-8e0b7a9335364256b8fcaeaeca054858">
+      <features
+          name="labelExpression"
+          value="Serve"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-f6770a407d354219b1fb26fc86380da8.xml#id-f6770a407d354219b1fb26fc86380da8"/>
@@ -244,6 +247,9 @@
         id="id-33e48d7fed144dd78e5a032b9f8982b8"
         source="id-dd4c01d4fd92440b8296bce040d1c61c"
         target="id-4902f9d642f1483db3a5172377714a07">
+      <features
+          name="labelExpression"
+          value="Access"/>
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_id-7057efe5b1454d6aa5c6bf8ca7da8ad6.xml#id-7057efe5b1454d6aa5c6bf8ca7da8ad6"/>
@@ -267,6 +273,9 @@
         id="id-f458c52af93042f8b48a431bc600439f"
         source="id-e04d58b34a1f43398dca0c30e9fe3120"
         target="id-8e0b7a9335364256b8fcaeaeca054858">
+      <features
+          name="labelExpression"
+          value="Serve"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-0cee1ebbe31a46699ab347c1fd6ac03a.xml#id-0cee1ebbe31a46699ab347c1fd6ac03a"/>
@@ -359,6 +368,9 @@
         id="id-bedb069b48a7454f895f047683181b43"
         source="id-779646939f074e22929172e147854dc9"
         target="id-1680809c9d69475080b71c57b0d4de4a">
+      <features
+          name="labelExpression"
+          value="Serve"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-3140b74028f548eca8be1282b555bcc2.xml#id-3140b74028f548eca8be1282b555bcc2"/>
@@ -500,6 +512,9 @@
           id="id-8e90207baa59489492906635f82c8042"
           source="id-1680809c9d69475080b71c57b0d4de4a"
           target="id-e04d58b34a1f43398dca0c30e9fe3120">
+        <features
+            name="labelExpression"
+            value="Realize"/>
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-a4489ec77dc14844984b232313937da5.xml#id-a4489ec77dc14844984b232313937da5"/>
@@ -581,6 +596,9 @@
         id="id-991c87c5116a4d07a74823b9914378c0"
         source="id-f1d15e5f28794b56af559c5dd36d231f"
         target="id-779646939f074e22929172e147854dc9">
+      <features
+          name="labelExpression"
+          value="Realize"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-4fe1e2e53d534c1c880c96865d728bb0.xml#id-4fe1e2e53d534c1c880c96865d728bb0"/>
@@ -639,6 +657,9 @@
         id="id-20869fc2ae0a4b80a12e56003bc251b9"
         source="id-dc89a0b2f6654990beed99ecc6896bc6"
         target="id-ab4b027a1fcf4e9182b29ded8418229e">
+      <features
+          name="labelExpression"
+          value="Associated to"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-e19135c315104ec6b0fc39fa43de8593.xml#id-e19135c315104ec6b0fc39fa43de8593"/>
@@ -661,6 +682,9 @@
         id="id-c131d39c7e574ec8b9df3df30ca01e0c"
         source="id-93aac101956b4403b4793d92bbe6a49a"
         target="id-dd4c01d4fd92440b8296bce040d1c61c">
+      <features
+          name="labelExpression"
+          value="Realize"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-0e13ff86581245d1a42535fe0a367b4b.xml#id-0e13ff86581245d1a42535fe0a367b4b"/>
